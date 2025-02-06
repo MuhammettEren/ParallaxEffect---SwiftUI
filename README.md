@@ -1,5 +1,7 @@
 
-<h3> Parallax Effect with SwiftUI</h3>
 
-https://github.com/user-attachments/assets/e6b68402-1cd6-456c-9837-a150ed3c97f2
+
+https://github.com/user-attachments/assets/24ae0ce9-ff76-41fa-b433-57494dba01cb
+
+
 
